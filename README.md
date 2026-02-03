@@ -6,7 +6,6 @@ It helps users manage their daily tasks by allowing them to **add, view, update,
 
 This project does not use any external libraries, files, or databases, making it lightweight and beginner-friendly.
 
----
 
 # Objective
 The main objectives of this project are:
@@ -15,7 +14,6 @@ The main objectives of this project are:
 - To build a **real-world task management application**
 - To provide a simple and interactive user experience through the terminal
 
----
 
 # Features
 - Add new tasks
@@ -25,14 +23,12 @@ The main objectives of this project are:
 - Menu-driven interface
 - Input validation for better user experience
 
----
 
 # Technologies Used
 - **Programming Language:** Python  
 - **Interface:** Command Line Interface (CLI)  
 - **Data Storage:** In-memory list (temporary)
 
----
 
 # Concepts Implemented
 - Lists
@@ -43,7 +39,7 @@ The main objectives of this project are:
 - Index validation
 - Basic error handling
 
-## ▶️ How to Run the Project
+# How to Run the Project
 
 1. Make sure Python is installed:
   - python --version
