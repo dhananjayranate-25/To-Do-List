@@ -46,6 +46,6 @@ The main objectives of this project are:
 ## ▶️ How to Run the Project
 
 1. Make sure Python is installed:
-   python --version
-   python todo.py
+  - python --version
+  - python todo.py
 
