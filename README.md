@@ -47,5 +47,7 @@ The main objectives of this project are:
 
 1. Make sure Python is installed:
   - python --version
-  - python todo.py
+    ```bash
+    python todo.py
+
 
